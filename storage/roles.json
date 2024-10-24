@@ -1,0 +1,12 @@
+{
+    "admin": [
+        "Super Admin",
+        "Manager",
+        "Admin"
+    ],
+    "user": [
+        "User Premium",
+        "User Free",
+        "User Blocked"
+    ]
+}

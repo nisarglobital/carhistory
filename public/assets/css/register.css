@@ -1,0 +1,110 @@
+
+.wrapper_register{
+    border: 1px solid #0071BC;
+    background-color:#E6F1F9;
+    border-radius:5px;
+}
+.wrapper_register > h2 {
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30.26px;
+    color: #0071BC;
+    text-align: center;
+}
+.social_login_btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.social_login_btn a {
+    border: 1px solid #383838;
+    padding: 15px 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.78px;
+    text-align: left;
+    color: #383838;
+}
+.wrapper_register .divider span{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color:#383838;
+}
+
+.wrapper_register .divider {
+    width: 100%;
+}
+
+.wrapper_register .divider::before,
+.wrapper_register .divider::after {
+    content: "";
+    flex-grow: 1;
+    border-bottom: 1px solid #000;
+}
+
+.wrapper_register .divider::before {
+    margin-right: 10px;
+}
+
+.wrapper_register .divider::after {
+    margin-left: 10px;
+}
+
+.register_Form  label p{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.78px;
+    text-align: left;
+    color:#383838;
+
+}
+.register_Form  > label input {
+    box-shadow: 0px 0px 4px 0px #00000040;
+    height: 58px;
+    min-width: 100%;
+    display: block;
+    border-radius: 5px;
+    text-indent: 15px;
+    border-color: transparent;
+}
+.register_Form  input::placeholder{
+    color:#A1A1A1 !important;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.78px;
+
+}
+.register_Form  input[type="checkbox"] {
+    border: 1.5px solid #5F6165;
+    width: 16px;
+}
+.register_Form  .forget_link{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.78px;
+    text-align: left;
+    color:#0071BC;
+    text-decoration:none;
+
+}
+.register_Form  button {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.78px;
+    background-color: #0071BC;
+    border-radius: 5px;
+    color: white;
+    height: 47px;
+    border-color: #0070b800;
+}

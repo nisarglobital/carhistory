@@ -1,0 +1,98 @@
+{
+    "Account Management": [
+        "view dashboard",
+        "view profile",
+        "reset password",
+        "delete account",
+        "freeze account"
+    ],
+    "User Management": [
+        "list user",
+        "create user",
+        "view user",
+        "edit user",
+        "delete user",
+        "restore user"
+    ],
+    "Role Management": [
+        "list role",
+        "create role",
+        "view role",
+        "edit role",
+        "delete role",
+        "restore role"
+    ],
+    "Permission Management": [
+        "list permission",
+        "create permission",
+        "view permission",
+        "edit permission",
+        "delete permission",
+        "restore permission"
+    ],
+    "Package Management": [
+        "list package",
+        "create package",
+        "view package",
+        "edit package",
+        "delete package",
+        "restore package"
+    ],
+    "Transaction Management": [
+        "list transaction",
+        "create transaction",
+        "view transaction",
+        "edit transaction",
+        "delete transaction",
+        "restore transaction"
+    ],
+    "Email Template Management": [
+        "list email-template",
+        "create email-template",
+        "view email-template",
+        "delete email-template",
+        "restore email-template",
+        "edit email-template"
+    ],
+    "User-blocked permissions": [
+        "user-blocked view profile",
+        "user-blocked list report",
+        "user-blocked view report",
+        "user-blocked list payment",
+        "user-blocked view payment"
+    ],
+    "User-free permissions": [
+        "user-free view profile",
+        "user-free update profile",
+        "user-free check report",
+        "user-free list report",
+        "user-free view report",
+        "user-free buy plan",
+        "user-free list payment",
+        "user-free view payment",
+        "user-free add payment-method",
+        "user-free change payment-method",
+        "user-free update payment-method",
+        "user-free delete payment-method",
+        "user-free delete account"
+    ],
+    "User-premium permissions": [
+        "user-premium view profile",
+        "user-premium update profile",
+        "user-premium check report",
+        "user-premium list report",
+        "user-premium view report",
+        "user-premium download report",
+        "user-premium save report",
+        "user-premium buy plan",
+        "user-premium send report-email",
+        "user-premium list payment",
+        "user-premium view payment",
+        "user-premium add payment-method",
+        "user-premium change payment-method",
+        "user-premium update payment-method",
+        "user-premium delete payment-method",
+        "user-premium delete account",
+        "user-premium freeze account"
+    ]
+}
